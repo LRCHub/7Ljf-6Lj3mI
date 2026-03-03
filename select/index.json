@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "DOA",
+  "base_artist": "Rich Brian",
+  "createdAt": "2026-03-03T03:11:30.474699Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DOA",
+      "artist": "Jay Reatard",
+      "has_synced": false,
+      "path": "select/01_DOA_Jay_Reatard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DOA",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/02_DOA_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DOA (Demo)",
+      "artist": "Foo Fighters",
+      "has_synced": false,
+      "path": "select/03_DOA_(Demo)_Foo_Fighters.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DOA (demo)",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/04_DOA_(demo)_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DOA",
+      "artist": "澤野弘之",
+      "has_synced": true,
+      "path": "select/05_DOA_澤野弘之.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DOA",
+      "artist": "Aimee Blackschleger",
+      "has_synced": true,
+      "path": "select/06_DOA_Aimee_Blackschleger.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DOA",
+      "artist": "I Prevail",
+      "has_synced": true,
+      "path": "select/07_DOA_I_Prevail.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DOA",
+      "artist": "Frankie Rose",
+      "has_synced": true,
+      "path": "select/08_DOA_Frankie_Rose.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DOA",
+      "artist": "Foo Fighters",
+      "has_synced": true,
+      "path": "select/09_DOA_Foo_Fighters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "DOA",
+      "artist": "Foo Fighters",
+      "has_synced": false,
+      "path": "select/10_DOA_Foo_Fighters.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DOA",
+      "artist": "Hiroyuki Sawano",
+      "has_synced": true,
+      "path": "select/11_DOA_Hiroyuki_Sawano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DOA",
+      "artist": "I Prevail",
+      "has_synced": false,
+      "path": "select/12_DOA_I_Prevail.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DOA",
+      "artist": "Rich Brian",
+      "has_synced": true,
+      "path": "select/13_DOA_Rich_Brian.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOA",
+      "artist": "Rich Brian",
+      "has_synced": false,
+      "path": "select/pl_01_DOA_Rich_Brian.txt"
+    }
+  ]
+}
