@@ -1,0 +1,55 @@
+# Rich Brian – DOA
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:21.53] Now I'm up, now I'm up
+[00:22.94] You're too far away
+[00:25.65] It's that DOA
+[00:27.34] Now I'm up, and you're stuck
+[00:28.47] And I know you hate it
+[00:31.15] It's that DOA
+[00:32.72] I guess I'm just too busy livin'
+[00:34.23] Revvin' up my engine
+[00:35.61] Hope it don't offend you, ay, ay
+[00:38.39] I bet you'll never catch me sleepin'
+[00:39.74] What's the use of dreamin'?
+[00:41.16] They already came true, ay, ay
+[00:43.88] Clear water in Laguna, ooh, oh
+[00:47.09] I'm reflectin', and I wish you'd do the same
+[00:49.88] Sorry that I didn't pick up
+[00:52.55] I was livin', yeah, my routine hasn't changed
+[00:55.25] I'm in the 818, don't take no breaks
+[00:57.88] Pushin' the Type R down the PCH
+[01:00.68] I'm in my shelter, I don't feel afraid
+[01:03.36] We could live forever
+[01:06.45] Now I'm up, now I'm up
+[01:07.68] You're too far away
+[01:09.96] It's that DOA
+[01:11.89] Now I'm up, and you're stuck
+[01:13.23] And I know you hate it
+[01:15.88] It's that DOA
+[01:17.81] All these different drinks, man
+[01:19.33] It's safe to say that I'm faded
+[01:20.87] My brain is workin', but my body's still on vacation
+[01:23.56] Nights like this could make the brightest days overrated
+[01:26.34] Never liked the sunlight anyway
+[01:28.54] I'm still in the 818, don't take no breaks
+[01:31.36] Pushin' the Type R down the PCH
+[01:34.16] I'm in my shelter, I don't feel afraid
+[01:36.96] We could live forever
+[01:39.74] Now I'm up, now I'm up
+[01:41.11] You're too far away
+[01:43.73] It's that DOA
+[01:45.54] Now I'm up, and you're stuck
+[01:46.83] And I know you hate it
+[01:49.11] It's that DOA
+[01:50.78] I guess I'm just too busy livin'
+[01:52.44] Revvin' up my engine
+[01:54.00] Hope it don't offend you, ay, ay
+[01:56.28] I bet you'll never catch me sleepin'
+[01:57.78] What's the use of dreamin'?
+[01:59.45] They already came true, ay, ay
+[02:02.35] Oh, I know you said it wasn't that hard
+[02:07.77] But I'd love to see you take it that far
+```
